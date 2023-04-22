@@ -1,5 +1,5 @@
 if('serviceWorker'in navigator){
-    navigator.serviceWorker.register('https://ecorpcompanygroupnibermusic.github.io/Niber-Music-/sw.js')
+    navigator.serviceWorker.register('sw.js')
     .then(res=>{
         console.log('serviceworker registered successfully')
         console.log(res)

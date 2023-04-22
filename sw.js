@@ -1,7 +1,7 @@
 const staticCacheName = 'Niber Music';
 const dynamicCacheName = 'Niber Music Pages';
 const assets = [
-'/','/index.html','/Function.js','/sw.js','/reg.js','/Home.js','/Main.js','/Header.js','/style.css','/Class.css','/Element.css','/android-launchericon-512-512.png','/offline.html'
+'https://ecorpcompanygroupnibermusic.github.io/Niber-Music-/','https://ecorpcompanygroupnibermusic.github.io/Niber-Music-/index.html','https://ecorpcompanygroupnibermusic.github.io/Niber-Music-/Account.js','https://ecorpcompanygroupnibermusic.github.io/Niber-Music-/Function.js','https://ecorpcompanygroupnibermusic.github.io/Niber-Music-/Header.js','https://ecorpcompanygroupnibermusic.github.io/Niber-Music-/Home.js','https://ecorpcompanygroupnibermusic.github.io/Niber-Music-/Main.js','https://ecorpcompanygroupnibermusic.github.io/Niber-Music-/offline.html','https://ecorpcompanygroupnibermusic.github.io/Niber-Music-/reg.js','https://ecorpcompanygroupnibermusic.github.io/Niber-Music-/style.css','https://ecorpcompanygroupnibermusic.github.io/Niber-Music-/Class.css','https://ecorpcompanygroupnibermusic.github.io/Niber-Music-/Elememnt.css','https://ecorpcompanygroupnibermusic.github.io/Niber-Music-/android-launchericon-512-512.png'
 ];
 // cache size limit function
 const limitCacheSize = (name, size) => {
