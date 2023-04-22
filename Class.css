@@ -1,0 +1,21 @@
+.Home{
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    left: 0;
+    display: block;
+    background: transparent;
+    top: 0;
+    border: 1px solid white;
+}
+
+.Account{
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    left: 100%;
+    display: block;
+    background: transparent;
+    top: 0;
+    border: 1px solid white;
+}

@@ -1,0 +1,34 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-size: 20px;
+    font-family: sans-serif;
+    transition: 1s;
+    list-style: none;
+    text-decoration: none;
+    color:white;
+    scroll-behavior: smooth;
+}
+
+body{
+    position: fixed;
+    background: teal;
+}
+
+header{
+    position: fixed;
+    width: 100%;
+    height: 50px;
+    display: inline-flex;
+    background: transparent;
+}
+div{
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    top: 50px;
+    display: inline-flex;
+    background: transparent;
+    overflow: hidden;
+    text-align: center;
+}

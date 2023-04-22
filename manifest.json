@@ -1,0 +1,17 @@
+{
+    "name": "Niber Music",
+    "short_name": "Niber Music",
+    "description": "Niber Music App From E-corp Company Group.",
+    "icons": [
+      {
+        "src": "android-launchericon-512-512.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ],
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#6074cc00"
+  }
+  

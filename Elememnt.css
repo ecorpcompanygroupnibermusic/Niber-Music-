@@ -1,0 +1,11 @@
+a{
+    position: relative;
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0.5rem;
+}
+
+a:hover{
+    color: black;
+}
